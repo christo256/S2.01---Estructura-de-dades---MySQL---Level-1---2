@@ -60,7 +60,7 @@ USE optica_db;
 
 INSERT INTO supplier (name, street, number, floor, door, city, postal_code, country, phone, fax, nif)
 VALUES  
-('Proveïdor Central', 'Carrer Veronica', '12', '2', 'A', 'Barcelona', '08001', 'España', '931234567', '931234568', '12345678'),
+('Proveïdor Central', 'Carrer Veronica', '12', '2', 'A', 'Barcelona', '08001', 'España', '931234567', '931234568', 'APRIMARYrecommended_by12345678'),
 ('Power Vision', 'Carrer Ramon Lluc', '10', '2', 'A', 'Barcelona', '08017', 'España', '941224567', '922224568', 'B12345678'),
 ('Lents Plus', 'Gran Via', '50', '1', 'B', 'Valencia', '46001', 'España', '961112233', '961112234', 'C98765432');
 
