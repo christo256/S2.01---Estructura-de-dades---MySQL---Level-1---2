@@ -145,7 +145,7 @@ A simplified version of YouTube with users, videos, comments, likes, channels, a
 - MySQL 8+
 - SQL (DDL & DML)
 - Git & GitHub
-- DB Designer tools: dbdiagram.io, MySQL Workbench or similar
+- DB Designer tools: MySQL Workbench 
 
 ---
 
